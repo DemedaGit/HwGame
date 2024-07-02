@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mdemi/OneDrive/Documents/Unreal Projects/ActionPlatformer/Content/Maps/MAP_Debug.umap",
+				"C:/Users/mdemi/OneDrive/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Abilities/BP_AbilityPickup.uasset",
+				"C:/Users/mdemi/OneDrive/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/Captain/BP_Captain.uasset",
+				"C:/Users/mdemi/OneDrive/Documents/Unreal Projects/ActionPlatformer/Content/Input/IMC_Action.uasset",
+				"C:/Users/mdemi/OneDrive/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Blocks/BP_Box.uasset",
+				"C:/Users/mdemi/OneDrive/Documents/Unreal Projects/ActionPlatformer/Content/Input/Actions/IA_Block.uasset",
+				"C:/Users/mdemi/OneDrive/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Blocks/BP_ShopBox.uasset",
+				"C:/Users/mdemi/OneDrive/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/GS_Action.uasset",
+				"C:/Users/mdemi/OneDrive/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/GSB_Action.uasset",
+				"C:/Users/mdemi/OneDrive/Documents/Unreal Projects/ActionPlatformer/Content/Widgets/W_Shop.uasset",
+				"C:/Users/mdemi/OneDrive/Documents/Unreal Projects/ActionPlatformer/Content/Widgets/W_Stats.uasset",
+				"C:/Users/mdemi/OneDrive/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Characters/BP_ActionChar.uasset",
+				"C:/Users/mdemi/OneDrive/Documents/Unreal Projects/ActionPlatformer/Content/DataAssets/S_Items.uasset",
+				"C:/Users/mdemi/OneDrive/Documents/Unreal Projects/ActionPlatformer/Content/DataAssets/S_ItemsStats.uasset",
+				"C:/Users/mdemi/OneDrive/Documents/Unreal Projects/ActionPlatformer/Content/DataAssets/DT_ItemStats.uasset",
+				"C:/Users/mdemi/OneDrive/Documents/Unreal Projects/ActionPlatformer/Content/PaperAssets/Icons/Cuirass.uasset",
+				"C:/Users/mdemi/OneDrive/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/GM_Action.uasset",
+				"C:/Users/mdemi/OneDrive/Documents/Unreal Projects/ActionPlatformer/Content/PaperAssets/Icons/GreatSword.uasset",
+				"C:/Users/mdemi/OneDrive/Documents/Unreal Projects/ActionPlatformer/Content/PaperAssets/Icons/Helm.uasset",
+				"C:/Users/mdemi/OneDrive/Documents/Unreal Projects/ActionPlatformer/Content/PaperAssets/Icons/Spear.uasset",
+				"C:/Users/mdemi/OneDrive/Documents/Unreal Projects/ActionPlatformer/Content/Blueprints/Blocks/BP_Wood.uasset",
+				"C:/Users/mdemi/Downloads/ActionPlatformer/Content/Blueprints/Abilities/BP_AbilityPickup.uasset"
+			]
+		}
+	]
+}
